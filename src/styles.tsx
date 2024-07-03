@@ -9,7 +9,7 @@ const EstiloGlobal = createGlobalStyle`
     }
 
     body {
-      padding: 80px 18px 0;
+      padding: 80px 18px;
 
       @media (max-width: 768px) {
         padding: 16px 0 0;
@@ -34,9 +34,5 @@ export const Container = styled.div`
   @media (max-width: 768px) {
     max-width: 80%;
     display: block;
-  }
-
-  img {
-    max-width: 100%;
   }
 `
