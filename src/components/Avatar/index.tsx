@@ -1,6 +1,6 @@
-import { FotoPerfil } from "./styles"
+import { FotoPerfil } from './styles'
 
-const Avatar () => (
+const Avatar = () => (
   <FotoPerfil src="https://github.com/Lxcier.png" alt="Foto de Perfil" />
 )
 
