@@ -1,5 +1,5 @@
-import Projetos from './components/Projetos'
-import Sobre from './components/Sobre'
+import Projetos from './containers/Projetos'
+import Sobre from './containers/Sobre'
 import Sidebar from './containers/Siderbar'
 import EstiloGlobal, { Container } from './styles'
 
